@@ -1,0 +1,268 @@
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.Cache
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FmOC.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMUsuarios.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+C:\Users\mariela.revollo\documents\visual studio 2010\Projects\Trabajo_Integral_Prototito\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\mariela.revollo\Documents\Visual Studio 2010\Projects\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheques_Ingresados.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.Cache
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial_Cobros.resources
+E:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+E:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+E:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FmOC.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial_Cobros.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheques_Ingresados.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\1 Compras\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.Cache
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Frm_Inicio.resources
+E:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOC.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOC.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Frm_Inicio.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial_Cobros.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheques_Ingresados.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.Cache
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOC.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Frm_Inicio.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial_Cobros.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheques_Ingresados.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.Cache
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\ever\Downloads\vb\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe.config
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe.config
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbprojResolveAssemblyReference.cache
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOC.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Frm_Inicio.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial_Cobros.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheques_Ingresados.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.cache
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.CoreCompileInputs.cache
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\equipo\Desktop\Final\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe.config
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbprojResolveAssemblyReference.cache
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOC.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Frm_Inicio.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial_Cobros.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheques_Ingresados.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.Cache
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAdmProveedor.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FormBuscarArticulo.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FormBuscarOrdePago.resources
+C:\Users\ever\Documents\Vb1\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmbuscarClientes.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe.config
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbprojResolveAssemblyReference.cache
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAdmProveedor.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FormBuscarArticulo.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FormBuscarOrdePago.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmbuscarClientes.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOC.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Frm_Inicio.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial_Cobros.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheques_Ingresados.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura_Venta.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmRemito.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmClientes.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaPedido.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmVendedor.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmROficial.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCheque.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmFactura.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmCtaCte_Prov.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMInventario.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmABMStock.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmAMB_PROV.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmDV.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmIR.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmNotaCredito.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmOPago.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPCOT.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmPR.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.FrmSC.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototito.vbproj.GenerateResource.Cache
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.exe
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.xml
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\obj\x86\Debug\Trabajo_Integral_Prototipo.pdb
+C:\Users\jose\Pictures\Prueba\PracticaProfesional\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototipo\Trabajo_Integral_Prototito\bin\Debug\Omega.exe.config
